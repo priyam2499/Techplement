@@ -1,1 +1,9 @@
-
+/*COMMANDS TO RUN THE PROJECT*/
+1.Compile Question.java file 
+Command: javac Question.java
+2.Compile Quiz.java file 
+Command:javac Quiz.java
+3.Compile QuizApp.java file 
+Command:javac QuizApp.java
+4.Run file QuizApp to Start the Application.
+Command:java QuizApp
